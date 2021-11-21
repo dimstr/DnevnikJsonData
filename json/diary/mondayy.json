@@ -1,17 +1,17 @@
 {
     "data": [
         {
-            "id": “1”,
-            "testo": "Fare la spesa",
+            "id": 1,
+            "lesson": "Fare la spesa",
             "stato": "1"
         },
         {
-            "id": “2”,
+            "id": 2,
             "testo": "Portare fuori il cane",
             "stato": "1"
         },
         {
-            "id": “3”,
+            "id": 3,
             "testo": “jhon”,
             "stato": "0"
         }
