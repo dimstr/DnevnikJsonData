@@ -1,19 +1,15 @@
 {
     "data": [
         {
-            "id": “1”,
-            "testo": "Fare la spesa",
-            "stato": "1"
+            "id": "Первое задание",
+            "lesson": "",
+            "tododo": "22-11_2021"
+            "urltodz": ""
         },
-        {
-            "id": “2”,
-            "testo": "Portare fuori il cane",
-            "stato": "1"
+            "id": "Второе задание",
+            "lesson": "",
+            "tododo": "22-11_2021"
+            "urltodz": ""
         },
-        {
-            "id": “3”,
-            "testo": “jhon”,
-            "stato": "0"
-        }
     ]
 }
