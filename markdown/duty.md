@@ -3,6 +3,8 @@
 
 <a href="https://yandex.ru/">Как сделать такое же фото?</a></p> 
 
+<img src="https://www.theselek.com/wp-content/uploads/2020/05/flutter-mustafa-halil-selek.jpg" alt="альтернативный текст">
+
 Check 
 
 <h1>Заголовок первого уровня</h1>
