@@ -1,6 +1,6 @@
 # Информация о дежурствах появится позже 
 
-<img class="fit-picture" src="https://resize.yandex.net/imgs_touch?key=334576968697edf82b61944151fca51f&url=https%3A%2F%2Fplanetahd.ru%2Fwp-content%2Fuploads%2F2017%2F9207887b0.png&width=720&height=720&typemap=png%3Apng%3B*%3Ajpg&quality=60&use-cache-headers=yes&crop=no&enlarge=no" alt="Grapefruit slice atop a pile of other slices">
+<img class="fit-picture" src="https://planetahd.ru/wp-content/uploads/2017/9207887b0.png" alt="Grapefruit slice atop a pile of other slices">
 
 
 <a href="https://yandex.ru/">Как сделать такое же фото?</a>
