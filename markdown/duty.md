@@ -1,5 +1,7 @@
 # Информация о дежурствах появится позже 
 
+img class="fit-picture" src="/media/cc0-images/grapefruit-slice-332-332.jpg" alt="Grapefruit slice atop a pile of other slices">
+
 
 <a href="https://yandex.ru/">Как сделать такое же фото?</a>
 
